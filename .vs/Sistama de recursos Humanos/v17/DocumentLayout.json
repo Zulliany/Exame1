@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YADIRA\\source\\repos\\Sistama de recursos Humanos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE2705-A91C-4F33-B63B-977DF8D52836}|Sistama de recursos Humanos.csproj|c:\\users\\yadira\\source\\repos\\sistama de recursos humanos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE2705-A91C-4F33-B63B-977DF8D52836}|Sistama de recursos Humanos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE2705-A91C-4F33-B63B-977DF8D52836}|Sistama de recursos Humanos.csproj|c:\\users\\yadira\\source\\repos\\sistama de recursos humanos\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE2705-A91C-4F33-B63B-977DF8D52836}|Sistama de recursos Humanos.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE2705-A91C-4F33-B63B-977DF8D52836}|Sistama de recursos Humanos.csproj|c:\\users\\yadira\\source\\repos\\sistama de recursos humanos\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE2705-A91C-4F33-B63B-977DF8D52836}|Sistama de recursos Humanos.csproj|solutionrelative:empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\YADIRA\\source\\repos\\Sistama de recursos Humanos\\Empleado.cs",
+              "RelativeDocumentMoniker": "Empleado.cs",
+              "ToolTip": "C:\\Users\\YADIRA\\source\\repos\\Sistama de recursos Humanos\\Empleado.cs",
+              "RelativeToolTip": "Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:18:49.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\YADIRA\\source\\repos\\Sistama de recursos Humanos\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\YADIRA\\source\\repos\\Sistama de recursos Humanos\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:18:02.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\YADIRA\\source\\repos\\Sistama de recursos Humanos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\YADIRA\\source\\repos\\Sistama de recursos Humanos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:16:52.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

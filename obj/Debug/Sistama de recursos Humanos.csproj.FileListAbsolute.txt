@@ -1,0 +1,7 @@
+C:\Users\YADIRA\source\repos\Sistama de recursos Humanos\obj\Debug\Sistama de recursos Humanos.csproj.AssemblyReference.cache
+C:\Users\YADIRA\source\repos\Sistama de recursos Humanos\obj\Debug\Sistama de recursos Humanos.csproj.CoreCompileInputs.cache
+C:\Users\YADIRA\source\repos\Sistama de recursos Humanos\bin\Debug\Sistama de recursos Humanos.exe.config
+C:\Users\YADIRA\source\repos\Sistama de recursos Humanos\bin\Debug\Sistama de recursos Humanos.exe
+C:\Users\YADIRA\source\repos\Sistama de recursos Humanos\bin\Debug\Sistama de recursos Humanos.pdb
+C:\Users\YADIRA\source\repos\Sistama de recursos Humanos\obj\Debug\Sistama de recursos Humanos.exe
+C:\Users\YADIRA\source\repos\Sistama de recursos Humanos\obj\Debug\Sistama de recursos Humanos.pdb
